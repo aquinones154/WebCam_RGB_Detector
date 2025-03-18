@@ -8,8 +8,8 @@
 
 Open terminal or command line and type:
 
-- git clone https://github.com/aquinones154/WebCam_RGB_Detector
+```git clone https://github.com/aquinones154/WebCam_RGB_Detector```
 
 Then cd into cloned repository 
 
-- cd WebCam_RGB_Detector
+```cd WebCam_RGB_Detector```

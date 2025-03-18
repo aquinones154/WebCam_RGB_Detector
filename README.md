@@ -1,1 +1,5 @@
-# RGB Detector using webcame
+# RGB Detector using webcam
+
+- Tools used 
+- OpenCV
+- Numpy 
